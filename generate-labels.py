@@ -119,4 +119,4 @@ with tempfile.TemporaryDirectory() as path:
             asn += 1
 
     filename = "barcodes-" + str(start_asn) + "_" + str(asn-1) + ".pdf"
-    pdf.output(filename,"F")
+    pdf.output(filename)

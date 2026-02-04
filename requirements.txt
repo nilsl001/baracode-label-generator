@@ -1,5 +1,8 @@
 defusedxml==0.7.1
-fpdf2==2.5.5
-pillow>=9.2.0
-python-barcode==0.14.0
-qrcode==7.3.1
+fonttools==4.61.1
+fpdf2==2.8.5
+gitdb==4.0.12
+GitPython==3.1.41
+pillow==12.1.0
+python-barcode==0.16.1
+qrcode==8.2
